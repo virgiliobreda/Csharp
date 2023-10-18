@@ -1,0 +1,14 @@
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ProjetoProdutos\ProjetoProdutos\bin\Debug\net7.0\ProjetoProdutos.exe
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ProjetoProdutos\ProjetoProdutos\bin\Debug\net7.0\ProjetoProdutos.deps.json
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ProjetoProdutos\ProjetoProdutos\bin\Debug\net7.0\ProjetoProdutos.runtimeconfig.json
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ProjetoProdutos\ProjetoProdutos\bin\Debug\net7.0\ProjetoProdutos.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ProjetoProdutos\ProjetoProdutos\bin\Debug\net7.0\ProjetoProdutos.pdb
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ProjetoProdutos\ProjetoProdutos\obj\Debug\net7.0\ProjetoProdutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ProjetoProdutos\ProjetoProdutos\obj\Debug\net7.0\ProjetoProdutos.AssemblyInfoInputs.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ProjetoProdutos\ProjetoProdutos\obj\Debug\net7.0\ProjetoProdutos.AssemblyInfo.cs
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ProjetoProdutos\ProjetoProdutos\obj\Debug\net7.0\ProjetoProdutos.csproj.CoreCompileInputs.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ProjetoProdutos\ProjetoProdutos\obj\Debug\net7.0\ProjetoProdutos.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ProjetoProdutos\ProjetoProdutos\obj\Debug\net7.0\refint\ProjetoProdutos.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ProjetoProdutos\ProjetoProdutos\obj\Debug\net7.0\ProjetoProdutos.pdb
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ProjetoProdutos\ProjetoProdutos\obj\Debug\net7.0\ProjetoProdutos.genruntimeconfig.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ProjetoProdutos\ProjetoProdutos\obj\Debug\net7.0\ref\ProjetoProdutos.dll

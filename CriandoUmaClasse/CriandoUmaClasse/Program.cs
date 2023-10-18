@@ -23,11 +23,13 @@ namespace CriandoUmaClasse
              y.B = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
              y.C = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-            double p = (x.A + x.B + x.C) / 2.0;
-            double areaX = Math.Sqrt(p * (p - x.A) * (p - x.B) * (p - x.C));
+            double areaX = x.Area();
+            //double p = (x.A + x.B + x.C) / 2.0;
+            //double areaX = Math.Sqrt(p * (p - x.A) * (p - x.B) * (p - x.C));
 
-            p = (y.A + y.B + y.C) / 2.0;
-            double areaY = Math.Sqrt(p * (p - y.A) * (p - y.B) * (p - y.C));
+            double areaY = y.Area();    
+            //p = (y.A + y.B + y.C) / 2.0;
+            //double areaY = Math.Sqrt(p * (p - y.A) * (p - y.B) * (p - y.C));
 
             Console.WriteLine("Área de X =" + areaX.ToString("F4", CultureInfo.InvariantCulture));
             Console.WriteLine("Área de Y =" + areaY.ToString("F4", CultureInfo.InvariantCulture));
