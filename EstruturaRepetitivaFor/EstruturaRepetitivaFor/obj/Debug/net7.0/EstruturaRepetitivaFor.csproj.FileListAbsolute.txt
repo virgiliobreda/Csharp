@@ -1,0 +1,14 @@
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\EstruturaRepetitivaFor\EstruturaRepetitivaFor\bin\Debug\net7.0\EstruturaRepetitivaFor.exe
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\EstruturaRepetitivaFor\EstruturaRepetitivaFor\bin\Debug\net7.0\EstruturaRepetitivaFor.deps.json
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\EstruturaRepetitivaFor\EstruturaRepetitivaFor\bin\Debug\net7.0\EstruturaRepetitivaFor.runtimeconfig.json
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\EstruturaRepetitivaFor\EstruturaRepetitivaFor\bin\Debug\net7.0\EstruturaRepetitivaFor.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\EstruturaRepetitivaFor\EstruturaRepetitivaFor\bin\Debug\net7.0\EstruturaRepetitivaFor.pdb
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\EstruturaRepetitivaFor\EstruturaRepetitivaFor\obj\Debug\net7.0\EstruturaRepetitivaFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\EstruturaRepetitivaFor\EstruturaRepetitivaFor\obj\Debug\net7.0\EstruturaRepetitivaFor.AssemblyInfoInputs.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\EstruturaRepetitivaFor\EstruturaRepetitivaFor\obj\Debug\net7.0\EstruturaRepetitivaFor.AssemblyInfo.cs
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\EstruturaRepetitivaFor\EstruturaRepetitivaFor\obj\Debug\net7.0\EstruturaRepetitivaFor.csproj.CoreCompileInputs.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\EstruturaRepetitivaFor\EstruturaRepetitivaFor\obj\Debug\net7.0\EstruturaRepetitivaFor.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\EstruturaRepetitivaFor\EstruturaRepetitivaFor\obj\Debug\net7.0\refint\EstruturaRepetitivaFor.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\EstruturaRepetitivaFor\EstruturaRepetitivaFor\obj\Debug\net7.0\EstruturaRepetitivaFor.pdb
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\EstruturaRepetitivaFor\EstruturaRepetitivaFor\obj\Debug\net7.0\EstruturaRepetitivaFor.genruntimeconfig.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\EstruturaRepetitivaFor\EstruturaRepetitivaFor\obj\Debug\net7.0\ref\EstruturaRepetitivaFor.dll

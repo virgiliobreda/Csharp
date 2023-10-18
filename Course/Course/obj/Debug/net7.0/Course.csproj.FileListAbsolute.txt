@@ -1,0 +1,14 @@
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Course\Course\bin\Debug\net7.0\Course.exe
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Course\Course\bin\Debug\net7.0\Course.deps.json
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Course\Course\bin\Debug\net7.0\Course.runtimeconfig.json
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Course\Course\bin\Debug\net7.0\Course.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Course\Course\bin\Debug\net7.0\Course.pdb
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Course\Course\obj\Debug\net7.0\Course.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Course\Course\obj\Debug\net7.0\Course.AssemblyInfoInputs.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Course\Course\obj\Debug\net7.0\Course.AssemblyInfo.cs
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Course\Course\obj\Debug\net7.0\Course.csproj.CoreCompileInputs.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Course\Course\obj\Debug\net7.0\Course.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Course\Course\obj\Debug\net7.0\refint\Course.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Course\Course\obj\Debug\net7.0\Course.pdb
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Course\Course\obj\Debug\net7.0\Course.genruntimeconfig.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Course\Course\obj\Debug\net7.0\ref\Course.dll

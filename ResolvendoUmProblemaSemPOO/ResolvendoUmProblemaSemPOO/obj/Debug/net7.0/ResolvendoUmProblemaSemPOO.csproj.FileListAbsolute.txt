@@ -1,0 +1,14 @@
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ResolvendoUmProblemaSemPOO\ResolvendoUmProblemaSemPOO\bin\Debug\net7.0\ResolvendoUmProblemaSemPOO.exe
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ResolvendoUmProblemaSemPOO\ResolvendoUmProblemaSemPOO\bin\Debug\net7.0\ResolvendoUmProblemaSemPOO.deps.json
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ResolvendoUmProblemaSemPOO\ResolvendoUmProblemaSemPOO\bin\Debug\net7.0\ResolvendoUmProblemaSemPOO.runtimeconfig.json
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ResolvendoUmProblemaSemPOO\ResolvendoUmProblemaSemPOO\bin\Debug\net7.0\ResolvendoUmProblemaSemPOO.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ResolvendoUmProblemaSemPOO\ResolvendoUmProblemaSemPOO\bin\Debug\net7.0\ResolvendoUmProblemaSemPOO.pdb
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ResolvendoUmProblemaSemPOO\ResolvendoUmProblemaSemPOO\obj\Debug\net7.0\ResolvendoUmProblemaSemPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ResolvendoUmProblemaSemPOO\ResolvendoUmProblemaSemPOO\obj\Debug\net7.0\ResolvendoUmProblemaSemPOO.AssemblyInfoInputs.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ResolvendoUmProblemaSemPOO\ResolvendoUmProblemaSemPOO\obj\Debug\net7.0\ResolvendoUmProblemaSemPOO.AssemblyInfo.cs
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ResolvendoUmProblemaSemPOO\ResolvendoUmProblemaSemPOO\obj\Debug\net7.0\ResolvendoUmProblemaSemPOO.csproj.CoreCompileInputs.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ResolvendoUmProblemaSemPOO\ResolvendoUmProblemaSemPOO\obj\Debug\net7.0\ResolvendoUmProblemaSemPOO.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ResolvendoUmProblemaSemPOO\ResolvendoUmProblemaSemPOO\obj\Debug\net7.0\refint\ResolvendoUmProblemaSemPOO.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ResolvendoUmProblemaSemPOO\ResolvendoUmProblemaSemPOO\obj\Debug\net7.0\ResolvendoUmProblemaSemPOO.pdb
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ResolvendoUmProblemaSemPOO\ResolvendoUmProblemaSemPOO\obj\Debug\net7.0\ResolvendoUmProblemaSemPOO.genruntimeconfig.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ResolvendoUmProblemaSemPOO\ResolvendoUmProblemaSemPOO\obj\Debug\net7.0\ref\ResolvendoUmProblemaSemPOO.dll

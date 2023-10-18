@@ -1,0 +1,14 @@
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\OperadoresAritmeticos\OperadoresAritmeticos\bin\Debug\net7.0\OperadoresAritmeticos.exe
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\OperadoresAritmeticos\OperadoresAritmeticos\bin\Debug\net7.0\OperadoresAritmeticos.deps.json
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\OperadoresAritmeticos\OperadoresAritmeticos\bin\Debug\net7.0\OperadoresAritmeticos.runtimeconfig.json
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\OperadoresAritmeticos\OperadoresAritmeticos\bin\Debug\net7.0\OperadoresAritmeticos.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\OperadoresAritmeticos\OperadoresAritmeticos\bin\Debug\net7.0\OperadoresAritmeticos.pdb
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\net7.0\OperadoresAritmeticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\net7.0\OperadoresAritmeticos.AssemblyInfoInputs.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\net7.0\OperadoresAritmeticos.AssemblyInfo.cs
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\net7.0\OperadoresAritmeticos.csproj.CoreCompileInputs.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\net7.0\OperadoresAritmeticos.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\net7.0\refint\OperadoresAritmeticos.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\net7.0\OperadoresAritmeticos.pdb
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\net7.0\OperadoresAritmeticos.genruntimeconfig.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\net7.0\ref\OperadoresAritmeticos.dll

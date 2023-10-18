@@ -1,0 +1,14 @@
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioRepetitivaFor\ExercicioRepetitivaFor\bin\Debug\net7.0\ExercicioRepetitivaFor.exe
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioRepetitivaFor\ExercicioRepetitivaFor\bin\Debug\net7.0\ExercicioRepetitivaFor.deps.json
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioRepetitivaFor\ExercicioRepetitivaFor\bin\Debug\net7.0\ExercicioRepetitivaFor.runtimeconfig.json
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioRepetitivaFor\ExercicioRepetitivaFor\bin\Debug\net7.0\ExercicioRepetitivaFor.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioRepetitivaFor\ExercicioRepetitivaFor\bin\Debug\net7.0\ExercicioRepetitivaFor.pdb
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioRepetitivaFor\ExercicioRepetitivaFor\obj\Debug\net7.0\ExercicioRepetitivaFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioRepetitivaFor\ExercicioRepetitivaFor\obj\Debug\net7.0\ExercicioRepetitivaFor.AssemblyInfoInputs.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioRepetitivaFor\ExercicioRepetitivaFor\obj\Debug\net7.0\ExercicioRepetitivaFor.AssemblyInfo.cs
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioRepetitivaFor\ExercicioRepetitivaFor\obj\Debug\net7.0\ExercicioRepetitivaFor.csproj.CoreCompileInputs.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioRepetitivaFor\ExercicioRepetitivaFor\obj\Debug\net7.0\ExercicioRepetitivaFor.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioRepetitivaFor\ExercicioRepetitivaFor\obj\Debug\net7.0\refint\ExercicioRepetitivaFor.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioRepetitivaFor\ExercicioRepetitivaFor\obj\Debug\net7.0\ExercicioRepetitivaFor.pdb
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioRepetitivaFor\ExercicioRepetitivaFor\obj\Debug\net7.0\ExercicioRepetitivaFor.genruntimeconfig.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioRepetitivaFor\ExercicioRepetitivaFor\obj\Debug\net7.0\ref\ExercicioRepetitivaFor.dll

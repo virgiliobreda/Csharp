@@ -1,0 +1,14 @@
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioEstruturaRepetitivaWhile\ExercicioEstruturaRepetitivaWhile\bin\Debug\net7.0\ExercicioEstruturaRepetitivaWhile.exe
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioEstruturaRepetitivaWhile\ExercicioEstruturaRepetitivaWhile\bin\Debug\net7.0\ExercicioEstruturaRepetitivaWhile.deps.json
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioEstruturaRepetitivaWhile\ExercicioEstruturaRepetitivaWhile\bin\Debug\net7.0\ExercicioEstruturaRepetitivaWhile.runtimeconfig.json
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioEstruturaRepetitivaWhile\ExercicioEstruturaRepetitivaWhile\bin\Debug\net7.0\ExercicioEstruturaRepetitivaWhile.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioEstruturaRepetitivaWhile\ExercicioEstruturaRepetitivaWhile\bin\Debug\net7.0\ExercicioEstruturaRepetitivaWhile.pdb
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioEstruturaRepetitivaWhile\ExercicioEstruturaRepetitivaWhile\obj\Debug\net7.0\ExercicioEstruturaRepetitivaWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioEstruturaRepetitivaWhile\ExercicioEstruturaRepetitivaWhile\obj\Debug\net7.0\ExercicioEstruturaRepetitivaWhile.AssemblyInfoInputs.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioEstruturaRepetitivaWhile\ExercicioEstruturaRepetitivaWhile\obj\Debug\net7.0\ExercicioEstruturaRepetitivaWhile.AssemblyInfo.cs
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioEstruturaRepetitivaWhile\ExercicioEstruturaRepetitivaWhile\obj\Debug\net7.0\ExercicioEstruturaRepetitivaWhile.csproj.CoreCompileInputs.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioEstruturaRepetitivaWhile\ExercicioEstruturaRepetitivaWhile\obj\Debug\net7.0\ExercicioEstruturaRepetitivaWhile.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioEstruturaRepetitivaWhile\ExercicioEstruturaRepetitivaWhile\obj\Debug\net7.0\refint\ExercicioEstruturaRepetitivaWhile.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioEstruturaRepetitivaWhile\ExercicioEstruturaRepetitivaWhile\obj\Debug\net7.0\ExercicioEstruturaRepetitivaWhile.pdb
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioEstruturaRepetitivaWhile\ExercicioEstruturaRepetitivaWhile\obj\Debug\net7.0\ExercicioEstruturaRepetitivaWhile.genruntimeconfig.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioEstruturaRepetitivaWhile\ExercicioEstruturaRepetitivaWhile\obj\Debug\net7.0\ref\ExercicioEstruturaRepetitivaWhile.dll

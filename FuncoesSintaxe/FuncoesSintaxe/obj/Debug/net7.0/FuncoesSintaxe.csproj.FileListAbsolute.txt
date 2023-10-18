@@ -1,0 +1,14 @@
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\FuncoesSintaxe\FuncoesSintaxe\bin\Debug\net7.0\FuncoesSintaxe.exe
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\FuncoesSintaxe\FuncoesSintaxe\bin\Debug\net7.0\FuncoesSintaxe.deps.json
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\FuncoesSintaxe\FuncoesSintaxe\bin\Debug\net7.0\FuncoesSintaxe.runtimeconfig.json
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\FuncoesSintaxe\FuncoesSintaxe\bin\Debug\net7.0\FuncoesSintaxe.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\FuncoesSintaxe\FuncoesSintaxe\bin\Debug\net7.0\FuncoesSintaxe.pdb
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\FuncoesSintaxe\FuncoesSintaxe\obj\Debug\net7.0\FuncoesSintaxe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\FuncoesSintaxe\FuncoesSintaxe\obj\Debug\net7.0\FuncoesSintaxe.AssemblyInfoInputs.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\FuncoesSintaxe\FuncoesSintaxe\obj\Debug\net7.0\FuncoesSintaxe.AssemblyInfo.cs
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\FuncoesSintaxe\FuncoesSintaxe\obj\Debug\net7.0\FuncoesSintaxe.csproj.CoreCompileInputs.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\FuncoesSintaxe\FuncoesSintaxe\obj\Debug\net7.0\FuncoesSintaxe.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\FuncoesSintaxe\FuncoesSintaxe\obj\Debug\net7.0\refint\FuncoesSintaxe.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\FuncoesSintaxe\FuncoesSintaxe\obj\Debug\net7.0\FuncoesSintaxe.pdb
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\FuncoesSintaxe\FuncoesSintaxe\obj\Debug\net7.0\FuncoesSintaxe.genruntimeconfig.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\FuncoesSintaxe\FuncoesSintaxe\obj\Debug\net7.0\ref\FuncoesSintaxe.dll

@@ -1,0 +1,14 @@
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\SaidaDeDados\SaidaDeDados\bin\Debug\net7.0\SaidaDeDados.exe
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\SaidaDeDados\SaidaDeDados\bin\Debug\net7.0\SaidaDeDados.deps.json
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\SaidaDeDados\SaidaDeDados\bin\Debug\net7.0\SaidaDeDados.runtimeconfig.json
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\SaidaDeDados\SaidaDeDados\bin\Debug\net7.0\SaidaDeDados.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\SaidaDeDados\SaidaDeDados\bin\Debug\net7.0\SaidaDeDados.pdb
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\SaidaDeDados\SaidaDeDados\obj\Debug\net7.0\SaidaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\SaidaDeDados\SaidaDeDados\obj\Debug\net7.0\SaidaDeDados.AssemblyInfoInputs.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\SaidaDeDados\SaidaDeDados\obj\Debug\net7.0\SaidaDeDados.AssemblyInfo.cs
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\SaidaDeDados\SaidaDeDados\obj\Debug\net7.0\SaidaDeDados.csproj.CoreCompileInputs.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\SaidaDeDados\SaidaDeDados\obj\Debug\net7.0\SaidaDeDados.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\SaidaDeDados\SaidaDeDados\obj\Debug\net7.0\refint\SaidaDeDados.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\SaidaDeDados\SaidaDeDados\obj\Debug\net7.0\SaidaDeDados.pdb
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\SaidaDeDados\SaidaDeDados\obj\Debug\net7.0\SaidaDeDados.genruntimeconfig.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\SaidaDeDados\SaidaDeDados\obj\Debug\net7.0\ref\SaidaDeDados.dll

@@ -1,0 +1,14 @@
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\EstrturaRepetitivaWhile\EstrturaRepetitivaWhile\obj\Debug\net7.0\EstrturaRepetitivaWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\EstrturaRepetitivaWhile\EstrturaRepetitivaWhile\obj\Debug\net7.0\EstrturaRepetitivaWhile.AssemblyInfoInputs.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\EstrturaRepetitivaWhile\EstrturaRepetitivaWhile\obj\Debug\net7.0\EstrturaRepetitivaWhile.AssemblyInfo.cs
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\EstrturaRepetitivaWhile\EstrturaRepetitivaWhile\obj\Debug\net7.0\EstrturaRepetitivaWhile.csproj.CoreCompileInputs.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\EstrturaRepetitivaWhile\EstrturaRepetitivaWhile\bin\Debug\net7.0\EstrturaRepetitivaWhile.exe
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\EstrturaRepetitivaWhile\EstrturaRepetitivaWhile\bin\Debug\net7.0\EstrturaRepetitivaWhile.deps.json
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\EstrturaRepetitivaWhile\EstrturaRepetitivaWhile\bin\Debug\net7.0\EstrturaRepetitivaWhile.runtimeconfig.json
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\EstrturaRepetitivaWhile\EstrturaRepetitivaWhile\bin\Debug\net7.0\EstrturaRepetitivaWhile.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\EstrturaRepetitivaWhile\EstrturaRepetitivaWhile\bin\Debug\net7.0\EstrturaRepetitivaWhile.pdb
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\EstrturaRepetitivaWhile\EstrturaRepetitivaWhile\obj\Debug\net7.0\EstrturaRepetitivaWhile.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\EstrturaRepetitivaWhile\EstrturaRepetitivaWhile\obj\Debug\net7.0\refint\EstrturaRepetitivaWhile.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\EstrturaRepetitivaWhile\EstrturaRepetitivaWhile\obj\Debug\net7.0\EstrturaRepetitivaWhile.pdb
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\EstrturaRepetitivaWhile\EstrturaRepetitivaWhile\obj\Debug\net7.0\EstrturaRepetitivaWhile.genruntimeconfig.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\EstrturaRepetitivaWhile\EstrturaRepetitivaWhile\obj\Debug\net7.0\ref\EstrturaRepetitivaWhile.dll

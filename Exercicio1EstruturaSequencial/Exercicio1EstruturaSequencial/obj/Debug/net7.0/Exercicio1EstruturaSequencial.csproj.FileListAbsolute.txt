@@ -1,0 +1,14 @@
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Exercicio1EstruturaSequencial\Exercicio1EstruturaSequencial\bin\Debug\net7.0\Exercicio1EstruturaSequencial.exe
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Exercicio1EstruturaSequencial\Exercicio1EstruturaSequencial\bin\Debug\net7.0\Exercicio1EstruturaSequencial.deps.json
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Exercicio1EstruturaSequencial\Exercicio1EstruturaSequencial\bin\Debug\net7.0\Exercicio1EstruturaSequencial.runtimeconfig.json
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Exercicio1EstruturaSequencial\Exercicio1EstruturaSequencial\bin\Debug\net7.0\Exercicio1EstruturaSequencial.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Exercicio1EstruturaSequencial\Exercicio1EstruturaSequencial\bin\Debug\net7.0\Exercicio1EstruturaSequencial.pdb
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Exercicio1EstruturaSequencial\Exercicio1EstruturaSequencial\obj\Debug\net7.0\Exercicio1EstruturaSequencial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Exercicio1EstruturaSequencial\Exercicio1EstruturaSequencial\obj\Debug\net7.0\Exercicio1EstruturaSequencial.AssemblyInfoInputs.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Exercicio1EstruturaSequencial\Exercicio1EstruturaSequencial\obj\Debug\net7.0\Exercicio1EstruturaSequencial.AssemblyInfo.cs
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Exercicio1EstruturaSequencial\Exercicio1EstruturaSequencial\obj\Debug\net7.0\Exercicio1EstruturaSequencial.csproj.CoreCompileInputs.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Exercicio1EstruturaSequencial\Exercicio1EstruturaSequencial\obj\Debug\net7.0\Exercicio1EstruturaSequencial.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Exercicio1EstruturaSequencial\Exercicio1EstruturaSequencial\obj\Debug\net7.0\refint\Exercicio1EstruturaSequencial.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Exercicio1EstruturaSequencial\Exercicio1EstruturaSequencial\obj\Debug\net7.0\Exercicio1EstruturaSequencial.pdb
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Exercicio1EstruturaSequencial\Exercicio1EstruturaSequencial\obj\Debug\net7.0\Exercicio1EstruturaSequencial.genruntimeconfig.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Exercicio1EstruturaSequencial\Exercicio1EstruturaSequencial\obj\Debug\net7.0\ref\Exercicio1EstruturaSequencial.dll

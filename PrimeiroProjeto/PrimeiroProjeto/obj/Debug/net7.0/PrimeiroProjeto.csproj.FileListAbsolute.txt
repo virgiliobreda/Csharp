@@ -1,0 +1,14 @@
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net7.0\PrimeiroProjeto.exe
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net7.0\PrimeiroProjeto.deps.json
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net7.0\PrimeiroProjeto.runtimeconfig.json
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net7.0\PrimeiroProjeto.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net7.0\PrimeiroProjeto.pdb
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net7.0\PrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net7.0\PrimeiroProjeto.AssemblyInfoInputs.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net7.0\PrimeiroProjeto.AssemblyInfo.cs
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net7.0\PrimeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net7.0\PrimeiroProjeto.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net7.0\refint\PrimeiroProjeto.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net7.0\PrimeiroProjeto.pdb
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net7.0\PrimeiroProjeto.genruntimeconfig.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net7.0\ref\PrimeiroProjeto.dll

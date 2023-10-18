@@ -1,0 +1,14 @@
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioEstrturaCondicional\ExercicioEstrturaCondicional\bin\Debug\net7.0\ExercicioEstrturaCondicional.exe
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioEstrturaCondicional\ExercicioEstrturaCondicional\bin\Debug\net7.0\ExercicioEstrturaCondicional.deps.json
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioEstrturaCondicional\ExercicioEstrturaCondicional\bin\Debug\net7.0\ExercicioEstrturaCondicional.runtimeconfig.json
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioEstrturaCondicional\ExercicioEstrturaCondicional\bin\Debug\net7.0\ExercicioEstrturaCondicional.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioEstrturaCondicional\ExercicioEstrturaCondicional\bin\Debug\net7.0\ExercicioEstrturaCondicional.pdb
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioEstrturaCondicional\ExercicioEstrturaCondicional\obj\Debug\net7.0\ExercicioEstrturaCondicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioEstrturaCondicional\ExercicioEstrturaCondicional\obj\Debug\net7.0\ExercicioEstrturaCondicional.AssemblyInfoInputs.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioEstrturaCondicional\ExercicioEstrturaCondicional\obj\Debug\net7.0\ExercicioEstrturaCondicional.AssemblyInfo.cs
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioEstrturaCondicional\ExercicioEstrturaCondicional\obj\Debug\net7.0\ExercicioEstrturaCondicional.csproj.CoreCompileInputs.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioEstrturaCondicional\ExercicioEstrturaCondicional\obj\Debug\net7.0\ExercicioEstrturaCondicional.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioEstrturaCondicional\ExercicioEstrturaCondicional\obj\Debug\net7.0\refint\ExercicioEstrturaCondicional.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioEstrturaCondicional\ExercicioEstrturaCondicional\obj\Debug\net7.0\ExercicioEstrturaCondicional.pdb
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioEstrturaCondicional\ExercicioEstrturaCondicional\obj\Debug\net7.0\ExercicioEstrturaCondicional.genruntimeconfig.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioEstrturaCondicional\ExercicioEstrturaCondicional\obj\Debug\net7.0\ref\ExercicioEstrturaCondicional.dll

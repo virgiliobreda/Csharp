@@ -1,0 +1,14 @@
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\PrimeirosExerciciosOO\PrimeirosExerciciosOO\bin\Debug\net7.0\PrimeirosExerciciosOO.exe
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\PrimeirosExerciciosOO\PrimeirosExerciciosOO\bin\Debug\net7.0\PrimeirosExerciciosOO.deps.json
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\PrimeirosExerciciosOO\PrimeirosExerciciosOO\bin\Debug\net7.0\PrimeirosExerciciosOO.runtimeconfig.json
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\PrimeirosExerciciosOO\PrimeirosExerciciosOO\bin\Debug\net7.0\PrimeirosExerciciosOO.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\PrimeirosExerciciosOO\PrimeirosExerciciosOO\bin\Debug\net7.0\PrimeirosExerciciosOO.pdb
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\PrimeirosExerciciosOO\PrimeirosExerciciosOO\obj\Debug\net7.0\PrimeirosExerciciosOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\PrimeirosExerciciosOO\PrimeirosExerciciosOO\obj\Debug\net7.0\PrimeirosExerciciosOO.AssemblyInfoInputs.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\PrimeirosExerciciosOO\PrimeirosExerciciosOO\obj\Debug\net7.0\PrimeirosExerciciosOO.AssemblyInfo.cs
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\PrimeirosExerciciosOO\PrimeirosExerciciosOO\obj\Debug\net7.0\PrimeirosExerciciosOO.csproj.CoreCompileInputs.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\PrimeirosExerciciosOO\PrimeirosExerciciosOO\obj\Debug\net7.0\PrimeirosExerciciosOO.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\PrimeirosExerciciosOO\PrimeirosExerciciosOO\obj\Debug\net7.0\refint\PrimeirosExerciciosOO.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\PrimeirosExerciciosOO\PrimeirosExerciciosOO\obj\Debug\net7.0\PrimeirosExerciciosOO.pdb
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\PrimeirosExerciciosOO\PrimeirosExerciciosOO\obj\Debug\net7.0\PrimeirosExerciciosOO.genruntimeconfig.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\PrimeirosExerciciosOO\PrimeirosExerciciosOO\obj\Debug\net7.0\ref\PrimeirosExerciciosOO.dll

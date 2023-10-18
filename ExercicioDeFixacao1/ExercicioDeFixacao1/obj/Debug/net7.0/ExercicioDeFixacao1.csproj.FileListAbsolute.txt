@@ -1,0 +1,14 @@
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioDeFixacao1\ExercicioDeFixacao1\bin\Debug\net7.0\ExercicioDeFixacao1.exe
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioDeFixacao1\ExercicioDeFixacao1\bin\Debug\net7.0\ExercicioDeFixacao1.deps.json
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioDeFixacao1\ExercicioDeFixacao1\bin\Debug\net7.0\ExercicioDeFixacao1.runtimeconfig.json
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioDeFixacao1\ExercicioDeFixacao1\bin\Debug\net7.0\ExercicioDeFixacao1.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioDeFixacao1\ExercicioDeFixacao1\bin\Debug\net7.0\ExercicioDeFixacao1.pdb
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioDeFixacao1\ExercicioDeFixacao1\obj\Debug\net7.0\ExercicioDeFixacao1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioDeFixacao1\ExercicioDeFixacao1\obj\Debug\net7.0\ExercicioDeFixacao1.AssemblyInfoInputs.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioDeFixacao1\ExercicioDeFixacao1\obj\Debug\net7.0\ExercicioDeFixacao1.AssemblyInfo.cs
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioDeFixacao1\ExercicioDeFixacao1\obj\Debug\net7.0\ExercicioDeFixacao1.csproj.CoreCompileInputs.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioDeFixacao1\ExercicioDeFixacao1\obj\Debug\net7.0\ExercicioDeFixacao1.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioDeFixacao1\ExercicioDeFixacao1\obj\Debug\net7.0\refint\ExercicioDeFixacao1.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioDeFixacao1\ExercicioDeFixacao1\obj\Debug\net7.0\ExercicioDeFixacao1.pdb
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioDeFixacao1\ExercicioDeFixacao1\obj\Debug\net7.0\ExercicioDeFixacao1.genruntimeconfig.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioDeFixacao1\ExercicioDeFixacao1\obj\Debug\net7.0\ref\ExercicioDeFixacao1.dll
