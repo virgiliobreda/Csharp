@@ -1,0 +1,14 @@
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioConversorMoeda\ExercicioConversorMoeda\bin\Debug\net7.0\ExercicioConversorMoeda.exe
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioConversorMoeda\ExercicioConversorMoeda\bin\Debug\net7.0\ExercicioConversorMoeda.deps.json
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioConversorMoeda\ExercicioConversorMoeda\bin\Debug\net7.0\ExercicioConversorMoeda.runtimeconfig.json
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioConversorMoeda\ExercicioConversorMoeda\bin\Debug\net7.0\ExercicioConversorMoeda.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioConversorMoeda\ExercicioConversorMoeda\bin\Debug\net7.0\ExercicioConversorMoeda.pdb
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioConversorMoeda\ExercicioConversorMoeda\obj\Debug\net7.0\ExercicioConversorMoeda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioConversorMoeda\ExercicioConversorMoeda\obj\Debug\net7.0\ExercicioConversorMoeda.AssemblyInfoInputs.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioConversorMoeda\ExercicioConversorMoeda\obj\Debug\net7.0\ExercicioConversorMoeda.AssemblyInfo.cs
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioConversorMoeda\ExercicioConversorMoeda\obj\Debug\net7.0\ExercicioConversorMoeda.csproj.CoreCompileInputs.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioConversorMoeda\ExercicioConversorMoeda\obj\Debug\net7.0\ExercicioConversorMoeda.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioConversorMoeda\ExercicioConversorMoeda\obj\Debug\net7.0\refint\ExercicioConversorMoeda.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioConversorMoeda\ExercicioConversorMoeda\obj\Debug\net7.0\ExercicioConversorMoeda.pdb
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioConversorMoeda\ExercicioConversorMoeda\obj\Debug\net7.0\ExercicioConversorMoeda.genruntimeconfig.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioConversorMoeda\ExercicioConversorMoeda\obj\Debug\net7.0\ref\ExercicioConversorMoeda.dll

@@ -1,0 +1,14 @@
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioModulo4\ExercicioModulo4\bin\Debug\net7.0\ExercicioModulo4.exe
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioModulo4\ExercicioModulo4\bin\Debug\net7.0\ExercicioModulo4.deps.json
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioModulo4\ExercicioModulo4\bin\Debug\net7.0\ExercicioModulo4.runtimeconfig.json
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioModulo4\ExercicioModulo4\bin\Debug\net7.0\ExercicioModulo4.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioModulo4\ExercicioModulo4\bin\Debug\net7.0\ExercicioModulo4.pdb
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioModulo4\ExercicioModulo4\obj\Debug\net7.0\ExercicioModulo4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioModulo4\ExercicioModulo4\obj\Debug\net7.0\ExercicioModulo4.AssemblyInfoInputs.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioModulo4\ExercicioModulo4\obj\Debug\net7.0\ExercicioModulo4.AssemblyInfo.cs
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioModulo4\ExercicioModulo4\obj\Debug\net7.0\ExercicioModulo4.csproj.CoreCompileInputs.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioModulo4\ExercicioModulo4\obj\Debug\net7.0\ExercicioModulo4.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioModulo4\ExercicioModulo4\obj\Debug\net7.0\refint\ExercicioModulo4.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioModulo4\ExercicioModulo4\obj\Debug\net7.0\ExercicioModulo4.pdb
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioModulo4\ExercicioModulo4\obj\Debug\net7.0\ExercicioModulo4.genruntimeconfig.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioModulo4\ExercicioModulo4\obj\Debug\net7.0\ref\ExercicioModulo4.dll

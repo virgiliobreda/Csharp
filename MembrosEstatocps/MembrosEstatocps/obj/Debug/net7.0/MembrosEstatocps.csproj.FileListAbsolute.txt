@@ -1,0 +1,14 @@
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\MembrosEstatocps\MembrosEstatocps\bin\Debug\net7.0\MembrosEstatocps.exe
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\MembrosEstatocps\MembrosEstatocps\bin\Debug\net7.0\MembrosEstatocps.deps.json
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\MembrosEstatocps\MembrosEstatocps\bin\Debug\net7.0\MembrosEstatocps.runtimeconfig.json
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\MembrosEstatocps\MembrosEstatocps\bin\Debug\net7.0\MembrosEstatocps.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\MembrosEstatocps\MembrosEstatocps\bin\Debug\net7.0\MembrosEstatocps.pdb
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\MembrosEstatocps\MembrosEstatocps\obj\Debug\net7.0\MembrosEstatocps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\MembrosEstatocps\MembrosEstatocps\obj\Debug\net7.0\MembrosEstatocps.AssemblyInfoInputs.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\MembrosEstatocps\MembrosEstatocps\obj\Debug\net7.0\MembrosEstatocps.AssemblyInfo.cs
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\MembrosEstatocps\MembrosEstatocps\obj\Debug\net7.0\MembrosEstatocps.csproj.CoreCompileInputs.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\MembrosEstatocps\MembrosEstatocps\obj\Debug\net7.0\MembrosEstatocps.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\MembrosEstatocps\MembrosEstatocps\obj\Debug\net7.0\refint\MembrosEstatocps.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\MembrosEstatocps\MembrosEstatocps\obj\Debug\net7.0\MembrosEstatocps.pdb
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\MembrosEstatocps\MembrosEstatocps\obj\Debug\net7.0\MembrosEstatocps.genruntimeconfig.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\MembrosEstatocps\MembrosEstatocps\obj\Debug\net7.0\ref\MembrosEstatocps.dll
