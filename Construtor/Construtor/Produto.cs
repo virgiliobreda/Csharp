@@ -15,19 +15,17 @@ namespace Construtor
 
         public Produto()
         {
+            Quantidade = 10;
         }
         
-        public Produto(string nome, double preco, int quantidade)
+        public Produto(string nome, double preco) : this()
         {
             Nome = nome;
             Preco = preco;
-            Quantidade = quantidade;
         }
 
-        public Produto(string nome, double preco)
+        public Produto(string nome, double preco, int quantidade) : this(nome, preco)
         {
-            Nome = nome;
-            Preco = preco;
             Quantidade = 5; // Já recebe o valor 0
         }
 

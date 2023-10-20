@@ -1,0 +1,14 @@
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioFixacaoBanco\ExercicioFixacaoBanco\bin\Debug\net7.0\ExercicioFixacaoBanco.exe
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioFixacaoBanco\ExercicioFixacaoBanco\bin\Debug\net7.0\ExercicioFixacaoBanco.deps.json
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioFixacaoBanco\ExercicioFixacaoBanco\bin\Debug\net7.0\ExercicioFixacaoBanco.runtimeconfig.json
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioFixacaoBanco\ExercicioFixacaoBanco\bin\Debug\net7.0\ExercicioFixacaoBanco.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioFixacaoBanco\ExercicioFixacaoBanco\bin\Debug\net7.0\ExercicioFixacaoBanco.pdb
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioFixacaoBanco\ExercicioFixacaoBanco\obj\Debug\net7.0\ExercicioFixacaoBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioFixacaoBanco\ExercicioFixacaoBanco\obj\Debug\net7.0\ExercicioFixacaoBanco.AssemblyInfoInputs.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioFixacaoBanco\ExercicioFixacaoBanco\obj\Debug\net7.0\ExercicioFixacaoBanco.AssemblyInfo.cs
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioFixacaoBanco\ExercicioFixacaoBanco\obj\Debug\net7.0\ExercicioFixacaoBanco.csproj.CoreCompileInputs.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioFixacaoBanco\ExercicioFixacaoBanco\obj\Debug\net7.0\ExercicioFixacaoBanco.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioFixacaoBanco\ExercicioFixacaoBanco\obj\Debug\net7.0\refint\ExercicioFixacaoBanco.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioFixacaoBanco\ExercicioFixacaoBanco\obj\Debug\net7.0\ExercicioFixacaoBanco.pdb
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioFixacaoBanco\ExercicioFixacaoBanco\obj\Debug\net7.0\ExercicioFixacaoBanco.genruntimeconfig.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioFixacaoBanco\ExercicioFixacaoBanco\obj\Debug\net7.0\ref\ExercicioFixacaoBanco.dll

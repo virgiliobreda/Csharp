@@ -1,0 +1,14 @@
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\PropertiesCsharp\PropertiesCsharp\bin\Debug\net7.0\PropertiesCsharp.exe
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\PropertiesCsharp\PropertiesCsharp\bin\Debug\net7.0\PropertiesCsharp.deps.json
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\PropertiesCsharp\PropertiesCsharp\bin\Debug\net7.0\PropertiesCsharp.runtimeconfig.json
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\PropertiesCsharp\PropertiesCsharp\bin\Debug\net7.0\PropertiesCsharp.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\PropertiesCsharp\PropertiesCsharp\bin\Debug\net7.0\PropertiesCsharp.pdb
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\PropertiesCsharp\PropertiesCsharp\obj\Debug\net7.0\PropertiesCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\PropertiesCsharp\PropertiesCsharp\obj\Debug\net7.0\PropertiesCsharp.AssemblyInfoInputs.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\PropertiesCsharp\PropertiesCsharp\obj\Debug\net7.0\PropertiesCsharp.AssemblyInfo.cs
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\PropertiesCsharp\PropertiesCsharp\obj\Debug\net7.0\PropertiesCsharp.csproj.CoreCompileInputs.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\PropertiesCsharp\PropertiesCsharp\obj\Debug\net7.0\PropertiesCsharp.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\PropertiesCsharp\PropertiesCsharp\obj\Debug\net7.0\refint\PropertiesCsharp.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\PropertiesCsharp\PropertiesCsharp\obj\Debug\net7.0\PropertiesCsharp.pdb
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\PropertiesCsharp\PropertiesCsharp\obj\Debug\net7.0\PropertiesCsharp.genruntimeconfig.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\PropertiesCsharp\PropertiesCsharp\obj\Debug\net7.0\ref\PropertiesCsharp.dll

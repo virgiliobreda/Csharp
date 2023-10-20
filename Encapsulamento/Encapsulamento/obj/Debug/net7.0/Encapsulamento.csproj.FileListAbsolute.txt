@@ -1,0 +1,14 @@
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Encapsulamento\Encapsulamento\bin\Debug\net7.0\Encapsulamento.exe
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Encapsulamento\Encapsulamento\bin\Debug\net7.0\Encapsulamento.deps.json
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Encapsulamento\Encapsulamento\bin\Debug\net7.0\Encapsulamento.runtimeconfig.json
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Encapsulamento\Encapsulamento\bin\Debug\net7.0\Encapsulamento.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Encapsulamento\Encapsulamento\bin\Debug\net7.0\Encapsulamento.pdb
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Encapsulamento\Encapsulamento\obj\Debug\net7.0\Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Encapsulamento\Encapsulamento\obj\Debug\net7.0\Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Encapsulamento\Encapsulamento\obj\Debug\net7.0\Encapsulamento.AssemblyInfo.cs
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Encapsulamento\Encapsulamento\obj\Debug\net7.0\Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Encapsulamento\Encapsulamento\obj\Debug\net7.0\Encapsulamento.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Encapsulamento\Encapsulamento\obj\Debug\net7.0\refint\Encapsulamento.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Encapsulamento\Encapsulamento\obj\Debug\net7.0\Encapsulamento.pdb
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Encapsulamento\Encapsulamento\obj\Debug\net7.0\Encapsulamento.genruntimeconfig.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Encapsulamento\Encapsulamento\obj\Debug\net7.0\ref\Encapsulamento.dll

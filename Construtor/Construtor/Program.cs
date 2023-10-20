@@ -6,7 +6,7 @@ namespace Construtor
     {
         static void Main(string[] args)
         {
-            
+
             Console.WriteLine("Entre os dados do produto:");
             Console.Write("Nome: ");
             string nome = Console.ReadLine();
@@ -14,6 +14,15 @@ namespace Construtor
             double preco = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
             Produto p = new Produto(nome, preco);
+
+            Produto p2 = new Produto();
+
+            Produto p3 = new Produto()
+            {
+                Nome = "TV",
+                Preco = 500.0,
+                Quantidade = 20
+            };
 
 
             Console.WriteLine();
@@ -29,8 +38,8 @@ namespace Construtor
             qte = int.Parse(Console.ReadLine());
             p.RemoverProdutos(qte);
             Console.WriteLine();
-            Console.WriteLine("Dados atualizados: " + p); 
+            Console.WriteLine("Dados atualizados: " + p);
         }
     }
 }
-    
+
