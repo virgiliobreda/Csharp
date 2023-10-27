@@ -1,0 +1,14 @@
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\NullableAula\NullableAula\bin\Debug\net7.0\NullableAula.exe
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\NullableAula\NullableAula\bin\Debug\net7.0\NullableAula.deps.json
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\NullableAula\NullableAula\bin\Debug\net7.0\NullableAula.runtimeconfig.json
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\NullableAula\NullableAula\bin\Debug\net7.0\NullableAula.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\NullableAula\NullableAula\bin\Debug\net7.0\NullableAula.pdb
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\NullableAula\NullableAula\obj\Debug\net7.0\NullableAula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\NullableAula\NullableAula\obj\Debug\net7.0\NullableAula.AssemblyInfoInputs.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\NullableAula\NullableAula\obj\Debug\net7.0\NullableAula.AssemblyInfo.cs
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\NullableAula\NullableAula\obj\Debug\net7.0\NullableAula.csproj.CoreCompileInputs.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\NullableAula\NullableAula\obj\Debug\net7.0\NullableAula.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\NullableAula\NullableAula\obj\Debug\net7.0\refint\NullableAula.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\NullableAula\NullableAula\obj\Debug\net7.0\NullableAula.pdb
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\NullableAula\NullableAula\obj\Debug\net7.0\NullableAula.genruntimeconfig.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\NullableAula\NullableAula\obj\Debug\net7.0\ref\NullableAula.dll

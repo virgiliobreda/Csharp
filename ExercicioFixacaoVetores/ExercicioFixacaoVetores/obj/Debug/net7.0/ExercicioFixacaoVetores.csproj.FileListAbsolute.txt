@@ -1,0 +1,14 @@
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioFixacaoVetores\ExercicioFixacaoVetores\bin\Debug\net7.0\ExercicioFixacaoVetores.exe
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioFixacaoVetores\ExercicioFixacaoVetores\bin\Debug\net7.0\ExercicioFixacaoVetores.deps.json
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioFixacaoVetores\ExercicioFixacaoVetores\bin\Debug\net7.0\ExercicioFixacaoVetores.runtimeconfig.json
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioFixacaoVetores\ExercicioFixacaoVetores\bin\Debug\net7.0\ExercicioFixacaoVetores.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioFixacaoVetores\ExercicioFixacaoVetores\bin\Debug\net7.0\ExercicioFixacaoVetores.pdb
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioFixacaoVetores\ExercicioFixacaoVetores\obj\Debug\net7.0\ExercicioFixacaoVetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioFixacaoVetores\ExercicioFixacaoVetores\obj\Debug\net7.0\ExercicioFixacaoVetores.AssemblyInfoInputs.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioFixacaoVetores\ExercicioFixacaoVetores\obj\Debug\net7.0\ExercicioFixacaoVetores.AssemblyInfo.cs
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioFixacaoVetores\ExercicioFixacaoVetores\obj\Debug\net7.0\ExercicioFixacaoVetores.csproj.CoreCompileInputs.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioFixacaoVetores\ExercicioFixacaoVetores\obj\Debug\net7.0\ExercicioFixacaoVetores.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioFixacaoVetores\ExercicioFixacaoVetores\obj\Debug\net7.0\refint\ExercicioFixacaoVetores.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioFixacaoVetores\ExercicioFixacaoVetores\obj\Debug\net7.0\ExercicioFixacaoVetores.pdb
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioFixacaoVetores\ExercicioFixacaoVetores\obj\Debug\net7.0\ExercicioFixacaoVetores.genruntimeconfig.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioFixacaoVetores\ExercicioFixacaoVetores\obj\Debug\net7.0\ref\ExercicioFixacaoVetores.dll
