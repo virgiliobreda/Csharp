@@ -1,0 +1,14 @@
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioLista\ExercicioLista\bin\Debug\net7.0\ExercicioLista.exe
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioLista\ExercicioLista\bin\Debug\net7.0\ExercicioLista.deps.json
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioLista\ExercicioLista\bin\Debug\net7.0\ExercicioLista.runtimeconfig.json
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioLista\ExercicioLista\bin\Debug\net7.0\ExercicioLista.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioLista\ExercicioLista\bin\Debug\net7.0\ExercicioLista.pdb
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioLista\ExercicioLista\obj\Debug\net7.0\ExercicioLista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioLista\ExercicioLista\obj\Debug\net7.0\ExercicioLista.AssemblyInfoInputs.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioLista\ExercicioLista\obj\Debug\net7.0\ExercicioLista.AssemblyInfo.cs
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioLista\ExercicioLista\obj\Debug\net7.0\ExercicioLista.csproj.CoreCompileInputs.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioLista\ExercicioLista\obj\Debug\net7.0\ExercicioLista.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioLista\ExercicioLista\obj\Debug\net7.0\refint\ExercicioLista.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioLista\ExercicioLista\obj\Debug\net7.0\ExercicioLista.pdb
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioLista\ExercicioLista\obj\Debug\net7.0\ExercicioLista.genruntimeconfig.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioLista\ExercicioLista\obj\Debug\net7.0\ref\ExercicioLista.dll

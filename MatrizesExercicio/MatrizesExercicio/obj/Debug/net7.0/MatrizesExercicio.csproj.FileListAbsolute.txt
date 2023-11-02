@@ -1,0 +1,14 @@
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\MatrizesExercicio\MatrizesExercicio\bin\Debug\net7.0\MatrizesExercicio.exe
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\MatrizesExercicio\MatrizesExercicio\bin\Debug\net7.0\MatrizesExercicio.deps.json
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\MatrizesExercicio\MatrizesExercicio\bin\Debug\net7.0\MatrizesExercicio.runtimeconfig.json
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\MatrizesExercicio\MatrizesExercicio\bin\Debug\net7.0\MatrizesExercicio.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\MatrizesExercicio\MatrizesExercicio\bin\Debug\net7.0\MatrizesExercicio.pdb
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\MatrizesExercicio\MatrizesExercicio\obj\Debug\net7.0\MatrizesExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\MatrizesExercicio\MatrizesExercicio\obj\Debug\net7.0\MatrizesExercicio.AssemblyInfoInputs.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\MatrizesExercicio\MatrizesExercicio\obj\Debug\net7.0\MatrizesExercicio.AssemblyInfo.cs
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\MatrizesExercicio\MatrizesExercicio\obj\Debug\net7.0\MatrizesExercicio.csproj.CoreCompileInputs.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\MatrizesExercicio\MatrizesExercicio\obj\Debug\net7.0\MatrizesExercicio.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\MatrizesExercicio\MatrizesExercicio\obj\Debug\net7.0\refint\MatrizesExercicio.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\MatrizesExercicio\MatrizesExercicio\obj\Debug\net7.0\MatrizesExercicio.pdb
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\MatrizesExercicio\MatrizesExercicio\obj\Debug\net7.0\MatrizesExercicio.genruntimeconfig.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\MatrizesExercicio\MatrizesExercicio\obj\Debug\net7.0\ref\MatrizesExercicio.dll

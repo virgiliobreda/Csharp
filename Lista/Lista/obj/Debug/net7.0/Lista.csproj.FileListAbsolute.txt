@@ -1,0 +1,14 @@
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Lista\Lista\bin\Debug\net7.0\Lista.exe
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Lista\Lista\bin\Debug\net7.0\Lista.deps.json
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Lista\Lista\bin\Debug\net7.0\Lista.runtimeconfig.json
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Lista\Lista\bin\Debug\net7.0\Lista.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Lista\Lista\bin\Debug\net7.0\Lista.pdb
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Lista\Lista\obj\Debug\net7.0\Lista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Lista\Lista\obj\Debug\net7.0\Lista.AssemblyInfoInputs.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Lista\Lista\obj\Debug\net7.0\Lista.AssemblyInfo.cs
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Lista\Lista\obj\Debug\net7.0\Lista.csproj.CoreCompileInputs.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Lista\Lista\obj\Debug\net7.0\Lista.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Lista\Lista\obj\Debug\net7.0\refint\Lista.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Lista\Lista\obj\Debug\net7.0\Lista.pdb
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Lista\Lista\obj\Debug\net7.0\Lista.genruntimeconfig.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Lista\Lista\obj\Debug\net7.0\ref\Lista.dll
