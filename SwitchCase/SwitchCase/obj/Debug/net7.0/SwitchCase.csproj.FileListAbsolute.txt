@@ -1,0 +1,14 @@
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\SwitchCase\SwitchCase\bin\Debug\net7.0\SwitchCase.exe
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\SwitchCase\SwitchCase\bin\Debug\net7.0\SwitchCase.deps.json
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\SwitchCase\SwitchCase\bin\Debug\net7.0\SwitchCase.runtimeconfig.json
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\SwitchCase\SwitchCase\bin\Debug\net7.0\SwitchCase.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\SwitchCase\SwitchCase\bin\Debug\net7.0\SwitchCase.pdb
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\SwitchCase\SwitchCase\obj\Debug\net7.0\SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\SwitchCase\SwitchCase\obj\Debug\net7.0\SwitchCase.AssemblyInfoInputs.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\SwitchCase\SwitchCase\obj\Debug\net7.0\SwitchCase.AssemblyInfo.cs
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\SwitchCase\SwitchCase\obj\Debug\net7.0\SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\SwitchCase\SwitchCase\obj\Debug\net7.0\SwitchCase.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\SwitchCase\SwitchCase\obj\Debug\net7.0\refint\SwitchCase.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\SwitchCase\SwitchCase\obj\Debug\net7.0\SwitchCase.pdb
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\SwitchCase\SwitchCase\obj\Debug\net7.0\SwitchCase.genruntimeconfig.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\SwitchCase\SwitchCase\obj\Debug\net7.0\ref\SwitchCase.dll

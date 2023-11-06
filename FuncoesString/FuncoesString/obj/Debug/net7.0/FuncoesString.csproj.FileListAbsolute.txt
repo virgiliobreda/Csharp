@@ -1,0 +1,14 @@
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\FuncoesString\FuncoesString\bin\Debug\net7.0\FuncoesString.exe
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\FuncoesString\FuncoesString\bin\Debug\net7.0\FuncoesString.deps.json
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\FuncoesString\FuncoesString\bin\Debug\net7.0\FuncoesString.runtimeconfig.json
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\FuncoesString\FuncoesString\bin\Debug\net7.0\FuncoesString.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\FuncoesString\FuncoesString\bin\Debug\net7.0\FuncoesString.pdb
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\FuncoesString\FuncoesString\obj\Debug\net7.0\FuncoesString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\FuncoesString\FuncoesString\obj\Debug\net7.0\FuncoesString.AssemblyInfoInputs.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\FuncoesString\FuncoesString\obj\Debug\net7.0\FuncoesString.AssemblyInfo.cs
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\FuncoesString\FuncoesString\obj\Debug\net7.0\FuncoesString.csproj.CoreCompileInputs.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\FuncoesString\FuncoesString\obj\Debug\net7.0\FuncoesString.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\FuncoesString\FuncoesString\obj\Debug\net7.0\refint\FuncoesString.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\FuncoesString\FuncoesString\obj\Debug\net7.0\FuncoesString.pdb
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\FuncoesString\FuncoesString\obj\Debug\net7.0\FuncoesString.genruntimeconfig.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\FuncoesString\FuncoesString\obj\Debug\net7.0\ref\FuncoesString.dll

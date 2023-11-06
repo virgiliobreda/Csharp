@@ -1,0 +1,14 @@
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExpressaoCondicionalTernaria\ExpressaoCondicionalTernaria\bin\Debug\net7.0\ExpressaoCondicionalTernaria.exe
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExpressaoCondicionalTernaria\ExpressaoCondicionalTernaria\bin\Debug\net7.0\ExpressaoCondicionalTernaria.deps.json
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExpressaoCondicionalTernaria\ExpressaoCondicionalTernaria\bin\Debug\net7.0\ExpressaoCondicionalTernaria.runtimeconfig.json
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExpressaoCondicionalTernaria\ExpressaoCondicionalTernaria\bin\Debug\net7.0\ExpressaoCondicionalTernaria.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExpressaoCondicionalTernaria\ExpressaoCondicionalTernaria\bin\Debug\net7.0\ExpressaoCondicionalTernaria.pdb
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExpressaoCondicionalTernaria\ExpressaoCondicionalTernaria\obj\Debug\net7.0\ExpressaoCondicionalTernaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExpressaoCondicionalTernaria\ExpressaoCondicionalTernaria\obj\Debug\net7.0\ExpressaoCondicionalTernaria.AssemblyInfoInputs.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExpressaoCondicionalTernaria\ExpressaoCondicionalTernaria\obj\Debug\net7.0\ExpressaoCondicionalTernaria.AssemblyInfo.cs
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExpressaoCondicionalTernaria\ExpressaoCondicionalTernaria\obj\Debug\net7.0\ExpressaoCondicionalTernaria.csproj.CoreCompileInputs.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExpressaoCondicionalTernaria\ExpressaoCondicionalTernaria\obj\Debug\net7.0\ExpressaoCondicionalTernaria.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExpressaoCondicionalTernaria\ExpressaoCondicionalTernaria\obj\Debug\net7.0\refint\ExpressaoCondicionalTernaria.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExpressaoCondicionalTernaria\ExpressaoCondicionalTernaria\obj\Debug\net7.0\ExpressaoCondicionalTernaria.pdb
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExpressaoCondicionalTernaria\ExpressaoCondicionalTernaria\obj\Debug\net7.0\ExpressaoCondicionalTernaria.genruntimeconfig.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExpressaoCondicionalTernaria\ExpressaoCondicionalTernaria\obj\Debug\net7.0\ref\ExpressaoCondicionalTernaria.dll
