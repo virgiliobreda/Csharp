@@ -1,0 +1,14 @@
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Date\Date\bin\Debug\net7.0\Date.exe
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Date\Date\bin\Debug\net7.0\Date.deps.json
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Date\Date\bin\Debug\net7.0\Date.runtimeconfig.json
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Date\Date\bin\Debug\net7.0\Date.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Date\Date\bin\Debug\net7.0\Date.pdb
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Date\Date\obj\Debug\net7.0\Date.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Date\Date\obj\Debug\net7.0\Date.AssemblyInfoInputs.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Date\Date\obj\Debug\net7.0\Date.AssemblyInfo.cs
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Date\Date\obj\Debug\net7.0\Date.csproj.CoreCompileInputs.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Date\Date\obj\Debug\net7.0\Date.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Date\Date\obj\Debug\net7.0\refint\Date.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Date\Date\obj\Debug\net7.0\Date.pdb
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Date\Date\obj\Debug\net7.0\Date.genruntimeconfig.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Date\Date\obj\Debug\net7.0\ref\Date.dll

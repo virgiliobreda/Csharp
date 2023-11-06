@@ -1,0 +1,14 @@
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\TimeSp\TimeSp\bin\Debug\net7.0\TimeSp.exe
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\TimeSp\TimeSp\bin\Debug\net7.0\TimeSp.deps.json
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\TimeSp\TimeSp\bin\Debug\net7.0\TimeSp.runtimeconfig.json
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\TimeSp\TimeSp\bin\Debug\net7.0\TimeSp.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\TimeSp\TimeSp\bin\Debug\net7.0\TimeSp.pdb
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\TimeSp\TimeSp\obj\Debug\net7.0\TimeSp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\TimeSp\TimeSp\obj\Debug\net7.0\TimeSp.AssemblyInfoInputs.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\TimeSp\TimeSp\obj\Debug\net7.0\TimeSp.AssemblyInfo.cs
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\TimeSp\TimeSp\obj\Debug\net7.0\TimeSp.csproj.CoreCompileInputs.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\TimeSp\TimeSp\obj\Debug\net7.0\TimeSp.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\TimeSp\TimeSp\obj\Debug\net7.0\refint\TimeSp.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\TimeSp\TimeSp\obj\Debug\net7.0\TimeSp.pdb
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\TimeSp\TimeSp\obj\Debug\net7.0\TimeSp.genruntimeconfig.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\TimeSp\TimeSp\obj\Debug\net7.0\ref\TimeSp.dll
