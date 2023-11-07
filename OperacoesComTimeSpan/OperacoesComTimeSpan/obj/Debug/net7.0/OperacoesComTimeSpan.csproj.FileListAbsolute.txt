@@ -1,0 +1,14 @@
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\OperacoesComTimeSpan\OperacoesComTimeSpan\bin\Debug\net7.0\OperacoesComTimeSpan.exe
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\OperacoesComTimeSpan\OperacoesComTimeSpan\bin\Debug\net7.0\OperacoesComTimeSpan.deps.json
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\OperacoesComTimeSpan\OperacoesComTimeSpan\bin\Debug\net7.0\OperacoesComTimeSpan.runtimeconfig.json
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\OperacoesComTimeSpan\OperacoesComTimeSpan\bin\Debug\net7.0\OperacoesComTimeSpan.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\OperacoesComTimeSpan\OperacoesComTimeSpan\bin\Debug\net7.0\OperacoesComTimeSpan.pdb
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\OperacoesComTimeSpan\OperacoesComTimeSpan\obj\Debug\net7.0\OperacoesComTimeSpan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\OperacoesComTimeSpan\OperacoesComTimeSpan\obj\Debug\net7.0\OperacoesComTimeSpan.AssemblyInfoInputs.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\OperacoesComTimeSpan\OperacoesComTimeSpan\obj\Debug\net7.0\OperacoesComTimeSpan.AssemblyInfo.cs
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\OperacoesComTimeSpan\OperacoesComTimeSpan\obj\Debug\net7.0\OperacoesComTimeSpan.csproj.CoreCompileInputs.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\OperacoesComTimeSpan\OperacoesComTimeSpan\obj\Debug\net7.0\OperacoesComTimeSpan.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\OperacoesComTimeSpan\OperacoesComTimeSpan\obj\Debug\net7.0\refint\OperacoesComTimeSpan.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\OperacoesComTimeSpan\OperacoesComTimeSpan\obj\Debug\net7.0\OperacoesComTimeSpan.pdb
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\OperacoesComTimeSpan\OperacoesComTimeSpan\obj\Debug\net7.0\OperacoesComTimeSpan.genruntimeconfig.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\OperacoesComTimeSpan\OperacoesComTimeSpan\obj\Debug\net7.0\ref\OperacoesComTimeSpan.dll
