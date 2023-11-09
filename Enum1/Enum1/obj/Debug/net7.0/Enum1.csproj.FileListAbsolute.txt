@@ -1,0 +1,14 @@
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Enum1\Enum1\bin\Debug\net7.0\Enum1.exe
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Enum1\Enum1\bin\Debug\net7.0\Enum1.deps.json
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Enum1\Enum1\bin\Debug\net7.0\Enum1.runtimeconfig.json
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Enum1\Enum1\bin\Debug\net7.0\Enum1.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Enum1\Enum1\bin\Debug\net7.0\Enum1.pdb
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Enum1\Enum1\obj\Debug\net7.0\Enum1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Enum1\Enum1\obj\Debug\net7.0\Enum1.AssemblyInfoInputs.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Enum1\Enum1\obj\Debug\net7.0\Enum1.AssemblyInfo.cs
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Enum1\Enum1\obj\Debug\net7.0\Enum1.csproj.CoreCompileInputs.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Enum1\Enum1\obj\Debug\net7.0\Enum1.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Enum1\Enum1\obj\Debug\net7.0\refint\Enum1.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Enum1\Enum1\obj\Debug\net7.0\Enum1.pdb
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Enum1\Enum1\obj\Debug\net7.0\Enum1.genruntimeconfig.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\Enum1\Enum1\obj\Debug\net7.0\ref\Enum1.dll

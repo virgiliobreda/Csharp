@@ -1,0 +1,14 @@
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\DateKind\DateKind\bin\Debug\net7.0\DateKind.exe
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\DateKind\DateKind\bin\Debug\net7.0\DateKind.deps.json
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\DateKind\DateKind\bin\Debug\net7.0\DateKind.runtimeconfig.json
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\DateKind\DateKind\bin\Debug\net7.0\DateKind.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\DateKind\DateKind\bin\Debug\net7.0\DateKind.pdb
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\DateKind\DateKind\obj\Debug\net7.0\DateKind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\DateKind\DateKind\obj\Debug\net7.0\DateKind.AssemblyInfoInputs.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\DateKind\DateKind\obj\Debug\net7.0\DateKind.AssemblyInfo.cs
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\DateKind\DateKind\obj\Debug\net7.0\DateKind.csproj.CoreCompileInputs.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\DateKind\DateKind\obj\Debug\net7.0\DateKind.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\DateKind\DateKind\obj\Debug\net7.0\refint\DateKind.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\DateKind\DateKind\obj\Debug\net7.0\DateKind.pdb
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\DateKind\DateKind\obj\Debug\net7.0\DateKind.genruntimeconfig.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\DateKind\DateKind\obj\Debug\net7.0\ref\DateKind.dll
