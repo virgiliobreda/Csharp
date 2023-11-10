@@ -1,0 +1,14 @@
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioEnum\ExercicioEnum\bin\Debug\net7.0\ExercicioEnum.exe
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioEnum\ExercicioEnum\bin\Debug\net7.0\ExercicioEnum.deps.json
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioEnum\ExercicioEnum\bin\Debug\net7.0\ExercicioEnum.runtimeconfig.json
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioEnum\ExercicioEnum\bin\Debug\net7.0\ExercicioEnum.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioEnum\ExercicioEnum\bin\Debug\net7.0\ExercicioEnum.pdb
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioEnum\ExercicioEnum\obj\Debug\net7.0\ExercicioEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioEnum\ExercicioEnum\obj\Debug\net7.0\ExercicioEnum.AssemblyInfoInputs.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioEnum\ExercicioEnum\obj\Debug\net7.0\ExercicioEnum.AssemblyInfo.cs
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioEnum\ExercicioEnum\obj\Debug\net7.0\ExercicioEnum.csproj.CoreCompileInputs.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioEnum\ExercicioEnum\obj\Debug\net7.0\ExercicioEnum.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioEnum\ExercicioEnum\obj\Debug\net7.0\refint\ExercicioEnum.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioEnum\ExercicioEnum\obj\Debug\net7.0\ExercicioEnum.pdb
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioEnum\ExercicioEnum\obj\Debug\net7.0\ExercicioEnum.genruntimeconfig.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\ExercicioEnum\ExercicioEnum\obj\Debug\net7.0\ref\ExercicioEnum.dll
