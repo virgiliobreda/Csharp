@@ -1,0 +1,14 @@
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\EnumFix1\EnumFix1\bin\Debug\net7.0\EnumFix1.exe
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\EnumFix1\EnumFix1\bin\Debug\net7.0\EnumFix1.deps.json
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\EnumFix1\EnumFix1\bin\Debug\net7.0\EnumFix1.runtimeconfig.json
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\EnumFix1\EnumFix1\bin\Debug\net7.0\EnumFix1.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\EnumFix1\EnumFix1\bin\Debug\net7.0\EnumFix1.pdb
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\EnumFix1\EnumFix1\obj\Debug\net7.0\EnumFix1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\EnumFix1\EnumFix1\obj\Debug\net7.0\EnumFix1.AssemblyInfoInputs.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\EnumFix1\EnumFix1\obj\Debug\net7.0\EnumFix1.AssemblyInfo.cs
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\EnumFix1\EnumFix1\obj\Debug\net7.0\EnumFix1.csproj.CoreCompileInputs.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\EnumFix1\EnumFix1\obj\Debug\net7.0\EnumFix1.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\EnumFix1\EnumFix1\obj\Debug\net7.0\refint\EnumFix1.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\EnumFix1\EnumFix1\obj\Debug\net7.0\EnumFix1.pdb
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\EnumFix1\EnumFix1\obj\Debug\net7.0\EnumFix1.genruntimeconfig.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\EnumFix1\EnumFix1\obj\Debug\net7.0\ref\EnumFix1.dll
