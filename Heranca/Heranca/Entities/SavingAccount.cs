@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Heranca.Entities
 {
-    internal class SavingAccount : Account
+    sealed class SavingAccount : Account
     {
         public double InterestRate { get; set; }
 
@@ -24,6 +24,10 @@ namespace Heranca.Entities
             Balance += Balance * InterestRate;
         }
 
-        
+        public sealed override void Withdraw(double amount)
+        {
+            base.Withdraw(amount);
+            Balance -= 2.0;
+        }
     }
 }

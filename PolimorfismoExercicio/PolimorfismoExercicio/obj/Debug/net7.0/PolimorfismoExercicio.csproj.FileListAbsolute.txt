@@ -1,0 +1,14 @@
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\PolimorfismoExercicio\PolimorfismoExercicio\obj\Debug\net7.0\PolimorfismoExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\PolimorfismoExercicio\PolimorfismoExercicio\obj\Debug\net7.0\PolimorfismoExercicio.AssemblyInfoInputs.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\PolimorfismoExercicio\PolimorfismoExercicio\obj\Debug\net7.0\PolimorfismoExercicio.AssemblyInfo.cs
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\PolimorfismoExercicio\PolimorfismoExercicio\obj\Debug\net7.0\PolimorfismoExercicio.csproj.CoreCompileInputs.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\PolimorfismoExercicio\PolimorfismoExercicio\bin\Debug\net7.0\PolimorfismoExercicio.exe
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\PolimorfismoExercicio\PolimorfismoExercicio\bin\Debug\net7.0\PolimorfismoExercicio.deps.json
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\PolimorfismoExercicio\PolimorfismoExercicio\bin\Debug\net7.0\PolimorfismoExercicio.runtimeconfig.json
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\PolimorfismoExercicio\PolimorfismoExercicio\bin\Debug\net7.0\PolimorfismoExercicio.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\PolimorfismoExercicio\PolimorfismoExercicio\bin\Debug\net7.0\PolimorfismoExercicio.pdb
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\PolimorfismoExercicio\PolimorfismoExercicio\obj\Debug\net7.0\PolimorfismoExercicio.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\PolimorfismoExercicio\PolimorfismoExercicio\obj\Debug\net7.0\refint\PolimorfismoExercicio.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\PolimorfismoExercicio\PolimorfismoExercicio\obj\Debug\net7.0\PolimorfismoExercicio.pdb
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\PolimorfismoExercicio\PolimorfismoExercicio\obj\Debug\net7.0\PolimorfismoExercicio.genruntimeconfig.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\PolimorfismoExercicio\PolimorfismoExercicio\obj\Debug\net7.0\ref\PolimorfismoExercicio.dll

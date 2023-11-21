@@ -1,0 +1,14 @@
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\PolimorfismoEHerancaExercicio\PolimorfismoEHerancaExercicio\bin\Debug\net7.0\PolimorfismoEHerancaExercicio.exe
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\PolimorfismoEHerancaExercicio\PolimorfismoEHerancaExercicio\bin\Debug\net7.0\PolimorfismoEHerancaExercicio.deps.json
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\PolimorfismoEHerancaExercicio\PolimorfismoEHerancaExercicio\bin\Debug\net7.0\PolimorfismoEHerancaExercicio.runtimeconfig.json
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\PolimorfismoEHerancaExercicio\PolimorfismoEHerancaExercicio\bin\Debug\net7.0\PolimorfismoEHerancaExercicio.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\PolimorfismoEHerancaExercicio\PolimorfismoEHerancaExercicio\bin\Debug\net7.0\PolimorfismoEHerancaExercicio.pdb
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\PolimorfismoEHerancaExercicio\PolimorfismoEHerancaExercicio\obj\Debug\net7.0\PolimorfismoEHerancaExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\PolimorfismoEHerancaExercicio\PolimorfismoEHerancaExercicio\obj\Debug\net7.0\PolimorfismoEHerancaExercicio.AssemblyInfoInputs.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\PolimorfismoEHerancaExercicio\PolimorfismoEHerancaExercicio\obj\Debug\net7.0\PolimorfismoEHerancaExercicio.AssemblyInfo.cs
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\PolimorfismoEHerancaExercicio\PolimorfismoEHerancaExercicio\obj\Debug\net7.0\PolimorfismoEHerancaExercicio.csproj.CoreCompileInputs.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\PolimorfismoEHerancaExercicio\PolimorfismoEHerancaExercicio\obj\Debug\net7.0\PolimorfismoEHerancaExercicio.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\PolimorfismoEHerancaExercicio\PolimorfismoEHerancaExercicio\obj\Debug\net7.0\refint\PolimorfismoEHerancaExercicio.dll
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\PolimorfismoEHerancaExercicio\PolimorfismoEHerancaExercicio\obj\Debug\net7.0\PolimorfismoEHerancaExercicio.pdb
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\PolimorfismoEHerancaExercicio\PolimorfismoEHerancaExercicio\obj\Debug\net7.0\PolimorfismoEHerancaExercicio.genruntimeconfig.cache
+C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\ProjetosC#\PolimorfismoEHerancaExercicio\PolimorfismoEHerancaExercicio\obj\Debug\net7.0\ref\PolimorfismoEHerancaExercicio.dll
