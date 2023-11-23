@@ -16,23 +16,25 @@ namespace Course
             list.Add(new BusinessAccount(1005, "Anna", 500.0, 500.0));
 
             double sum = 0.0;
-            foreach (Account acc in list)
+            foreach (Account account in list)
             {
-                sum += acc.Balance;
+                sum += account.Balance;
             }
 
-            Console.WriteLine("Total balance: " + sum.ToString("F2", CultureInfo.InvariantCulture));
+            Console.WriteLine("Total Balance: " + sum.ToString("F2", CultureInfo.InvariantCulture));
 
-            foreach (Account acc in list)
+            foreach (Account account in list)
             {
-                acc.Withdraw(10.0);
+                account.Withdraw(10.0);
             }
-            foreach (Account acc in list)
+
+            foreach (Account account in list)
             {
-                Console.WriteLine("Updated balance for account "
-                    + acc.Number
+                Console.WriteLine("Update balance for account "
+                    + account.Number
                     + ": "
-                    + acc.Balance.ToString("F2", CultureInfo.InvariantCulture));
+                    + account.Balance.ToString(CultureInfo.InvariantCulture));
+
             }
         }
     }
