@@ -42,7 +42,7 @@ namespace CustomException
             }
             catch (Exception ex)
             {
-                Console.WriteLine($"Error: {ex.Message}");
+                Console.WriteLine($"Unexpected error: {ex.Message}");
             }
         }
     }
