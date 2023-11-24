@@ -39,12 +39,12 @@ namespace CustomException.Entities
 
             if (checkIn < now || checkOut < now)
             {
-                throw new DomainException("Error in reservation: reservation dates for update must be future dates");
+                throw new DomainException("reservation dates for update must be future dates");
             }
 
             if (checkOut <= checkIn)
             {
-                throw new DomainException ("Errror in reservation: Check-out date must be after check-in date");
+                throw new DomainException ("Check-out date must be after check-in date");
             }
 
             CheckIn = checkIn;
