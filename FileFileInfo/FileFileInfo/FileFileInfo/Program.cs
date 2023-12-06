@@ -6,8 +6,8 @@ namespace FileFileInfo
     {
         static void Main(string[] args)
         {
-            string sourcePath = @"C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\file1.txt";
-            string targetPath = @"C:\Users\virgi\OneDrive\Área de Trabalho\projetos.net\file2.txt";
+            string sourcePath = @"put a file path here";
+            string targetPath = @"put a file path here";
             string[] lines = File.ReadAllLines(sourcePath);
             foreach (string line in lines)
             {
