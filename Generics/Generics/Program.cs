@@ -15,10 +15,6 @@
                 printService.AddValue(x);
             }
 
-            int a = printService.First();
-            int b = a + 2;
-            Console.WriteLine(b);
-
             printService.Print();
             Console.Write("First: " + printService.First());
             Console.WriteLine();
