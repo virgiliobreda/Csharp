@@ -1,7 +1,7 @@
-﻿Carro c1 = new Carro("Chevrolet", "Sedan" ,"Onix" ,2016,120);
+﻿Carro c1 = new Carro("Chevrolet", "Sedan" ,"Onix" ,2016,120, 1);
 
 
-Carro c2 = new Carro("Ford","SUV","EcoSport",2018,120);
+Carro c2 = new Carro("Ford","SUV","EcoSport",2018,120, 3);
 
 
 Console.WriteLine($"{c1.Modelo}, {c1.Montadora}, {c1.Marca}, {c1.Ano}, {c1.Potencia}");
@@ -11,37 +11,18 @@ c2.Acelerar();
 
 Console.WriteLine(c1.VelocidadeMaxima(c1.Potencia));
 
+Console.WriteLine("Aumentando potencia");
+Console.WriteLine(c1.AumentarPotencia(c1.Potencia));
+Console.WriteLine(c1.Potencia);
+
+Console.WriteLine("Aumentando potencia referencia ref");
+Console.WriteLine(c1.AumentarPotencia(ref c1.Potencia));
+Console.WriteLine(c1.Potencia);
+
+Console.WriteLine("Aumentando potencia referencia out");
+c1.AumentarPotenciaVelocidade(ref c1.Potencia, out double velocidade);
+Console.WriteLine(c1.Potencia);
+Console.WriteLine(velocidade);
+
 
 Console.ReadKey();
-class Carro
-{
-    public string? Modelo;
-    public string? Montadora;
-    public string? Marca;
-    public int Ano;
-    public int Potencia;
-
-    public Carro(string? modelo, string? montadora, string? marca, int ano, int potencia)
-    {
-        Modelo = modelo;
-        Montadora = montadora;
-        Marca = marca;
-        Ano = ano;
-        Potencia = potencia;
-    }
-
-    public Carro(string modelo, string montadora)
-    {
-        Modelo = modelo;
-        Montadora = montadora;
-    }
-    public void Acelerar()
-    {
-        Console.WriteLine($"Acelerando o meu {this.Marca}");
-    }
-
-    public double VelocidadeMaxima(int potencia)
-    {
-        return potencia * 1.75;
-    }
-}
